@@ -111,7 +111,7 @@ Use **Thunder Client** (VS Code extension) or **Postman** to test your API.
 {
   "name": "Wireless Mouse",
   "price": 29.99,
-  "category": "Electronics"
+  "quantity": 40
 }
 ```
 
